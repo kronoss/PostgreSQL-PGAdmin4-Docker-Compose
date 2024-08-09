@@ -7,3 +7,14 @@ PGAdmin4: Incluye un contenedor con PGAdmin4, una potente herramienta de adminis
 Configuración Sencilla: Con Docker Compose, el entorno se levanta y se configura con un solo comando, facilitando su uso.
 Persistencia de Datos: Los datos de PostgreSQL se almacenan en volúmenes de Docker, garantizando la persistencia incluso si los contenedores se detienen o se eliminan.
 Configuración Personalizable: Variables de entorno y configuraciones pueden ajustarse fácilmente para adaptarse a diferentes entornos de desarrollo.
+
+## Descarga el Proyecto
+```bash
+git clone https://github.com/tu_usuario/nombre_del_repositorio.git
+cd nombre_del_repositorio
+```
+## Levantar los servicios
+```bash
+docker compose pull
+docker compose up -d
+```
