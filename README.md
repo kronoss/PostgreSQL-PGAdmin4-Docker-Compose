@@ -1,4 +1,4 @@
-#PostgreSQL y PGAdmin4 en Docker con Docker Compose
+# PostgreSQL y PGAdmin4 en Docker con Docker Compose
 Este repositorio proporciona un entorno completo para ejecutar PostgreSQL y PGAdmin4 utilizando Docker y Docker Compose. Está diseñado para facilitar la configuración y administración de bases de datos PostgreSQL en un entorno local o en un servidor de desarrollo, proporcionando al mismo tiempo una interfaz gráfica para la gestión de bases de datos a través de PGAdmin4.
 
 Características
