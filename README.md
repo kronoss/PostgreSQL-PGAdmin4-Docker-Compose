@@ -10,8 +10,8 @@ Configuración Personalizable: Variables de entorno y configuraciones pueden aju
 
 ## Descarga el Proyecto
 ```bash
-git clone https://github.com/tu_usuario/nombre_del_repositorio.git
-cd nombre_del_repositorio
+git clone git@github.com:kronoss/PostgreSQL-PGAdmin4-Docker-Compose.git
+cd PostgreSQL-PGAdmin4-Docker-Compose
 ```
 ## Levantar los servicios
 ```bash
